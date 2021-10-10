@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Example JSON-Server",
+      "author": "Naveen Kumar R"
+    },
+    {
+      "title": "How are you?",
+      "author": "Sharath Kumar R",
+      "id": 3
+    },
+    {
+      "title": "Best way to learn Cypress?",
+      "author": "Paul Jones",
+      "id": 4
+    },
+    {
+      "title": "Best way to learn Cypress?",
+      "author": "Naveen Khunteta",
+      "id": 5
+    },
+    {
+      "title": "Best way to learn Selenium?",
+      "author": "Mukesh Otwani",
+      "id": 2
+    },
+    {
+      "title": "Where can i buy apples?",
+      "author": "Tom Jones",
+      "id": 6
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 8
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 9
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 10
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 21
+    },
+    {
+      "title": "Want to learn Automation Testing?",
+      "author": "Sarah Jones",
+      "id": 22
+    },
+    {
+      "title": ".zk1nhlkfqa.wy01nes84vj",
+      "author": "Sarah Jones",
+      "id": 23
+    },
+    {
+      "title": ".hgnemrg6wqg.98m5xhhk3lw",
+      "author": "Sarah Jones",
+      "id": 24
+    },
+    {
+      "title": ".hbh6r4eynaa.ei07eocv3k5",
+      "author": "Sarah Jones",
+      "id": 25
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "API & XHR Testing",
+      "postId": 1
+    },
+    {
+      "body": "Where can i buy apples?",
+      "postId": 2,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "Naveen Kumar R"
+  }
+}

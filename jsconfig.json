@@ -1,0 +1,8 @@
+{
+    "include": [
+      "./node_modules/cypress",
+      "./node_modules",
+      "cypress/**/*.js"
+    ]
+  }
+    //VS Code for Cypress Intellisense Auto-Suggestions for Cypress API
